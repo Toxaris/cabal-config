@@ -11,7 +11,7 @@ world-file: C:\Users\Tillmann\AppData\Roaming\cabal\world
 -- program-prefix: 
 -- program-suffix: 
 -- library-vanilla: True
--- library-profiling: False
+library-profiling: True
 -- shared:
 -- executable-dynamic: False
 -- executable-profiling: False
